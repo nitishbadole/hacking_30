@@ -2704,3 +2704,6 @@ Windows Privledge Escalation
     
 -   Transfer files to windows machines
     https://blog.netspi.com/15-ways-to-download-a-file/
+      
+      https://drive.google.com/drive/folders/1IQ1yKassHvFEj8gWGlRe9ncInYIXDrlF
+      
